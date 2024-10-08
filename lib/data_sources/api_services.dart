@@ -11,8 +11,8 @@ import 'package:dio/dio.dart';
 
 class ApiServices {
  //final String baseUrl = 'https:/03637/localhost/api';
- final String baseUrl = 'https://192.168.90.139/api';
-// final String baseUrl = 'https://gw.conectvn.com:4432/api';
+// final String baseUrl = 'https://192.168.90.139/api';
+ final String baseUrl = 'https://gw.conectvn.com:4432/api';
   final dio = Dio();
 
   // get employee
